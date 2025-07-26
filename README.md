@@ -6,7 +6,7 @@ Backbone: DenseNet121
 Classifier Head: Fully connected layers with softmax for categorical output
 
 Dataset
-Input: Medical images (e.g., histopathology, radiology, or dermatoscopic scans)
+Input: Medical images (e.g., polyps , normal pylorus , normal z-line , ulcerative colitis , esophagitis , dyed resection margins)
 
 Output Labels: Multiple classes (e.g., melanoma, carcinoma, benign, etc.)
 
